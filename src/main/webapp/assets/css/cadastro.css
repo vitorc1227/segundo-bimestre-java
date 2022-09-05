@@ -1,0 +1,27 @@
+body {
+    background-color: #0c814c;
+
+    font-family: sans-serif;
+}
+
+#form {
+    background-color: #FFF;
+}
+
+#title {
+    padding-bottom: 80px;
+}
+
+#botao {
+    border-radius: 20px;
+}
+
+#xi {
+    padding-bottom: 30px;
+}
+
+input[type=password],
+input[type=email],
+input[type=text] {
+    background-color: #FFFFFF;
+}

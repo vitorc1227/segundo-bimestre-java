@@ -1,0 +1,12 @@
+body {
+    background-color: #0c814c;
+}
+
+#form {
+    background-color: #FFF;
+}
+
+input[type=password],
+input[type=email] {
+    background-color: #FFFFFF;
+}

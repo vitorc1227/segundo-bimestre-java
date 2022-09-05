@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(17, 107, 24);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color: rgb(17, 107, 24);
+    font-size: 40px;
+}
+
+#navbarText {
+    font-size: 21px;
+}
+
+nav {
+    min-width: 100%;
+}
+
+.list-group,
+.card {
+    background-color: rgb(174, 230, 179);
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
